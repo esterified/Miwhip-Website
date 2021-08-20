@@ -1,2 +1,2 @@
 # Miwhip-Website
-This is part of the website developed for miwhip
+This is Web template was created for Miwhip
